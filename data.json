@@ -1,0 +1,40 @@
+{
+    "courses": {
+      "Python": "   Python      3 month course      Course Subscipition: Rs 2500",
+      "PHP": "    PHP       3 month course      Course Subscipition: Rs 2500",
+      "Backend django": "    Backend django        3 month course      Course Subscipition: Rs 2500",
+      "Machine learining": "    Machine learining        3 month course      Course Subscipition: Rs 2500",
+      "FrontEnd": "     FrontEnd       3 month course      Course Subscipition: Rs 2500"
+    },
+    "student": {
+      "1": {
+        "name": "Nishal srestha",
+        "payment": 1500,
+        "returned": "",
+        "course": "Python",
+        "course_status": 2
+      },
+      "2": {
+        "name": "bishal bhandari",
+        "payment": 1500,
+        "returned": "",
+        "course": "Machine learining",
+        "course_status": 1
+      },
+      "3": {
+        "name": "aaditya adhikari",
+        "payment": 1500,
+        "returned": "",
+        "course": "Backend django",
+        "course_status": 2
+      },
+      "4" : {
+        "name":"Nischal Basnet",
+        "payment":1500,
+        "returned":"",
+        "course":"frontend",
+        "course_status":1
+
+      }
+    }
+  }
